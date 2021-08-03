@@ -4,7 +4,7 @@
     "type": "library",
     "license": "MIT",
     "minimum-stability": "stable",
-    "version": "0.14.0-jlo",
+    "version": "0.14.0.jlo",
     "keywords": [
         "security",
         "crowdsec",
