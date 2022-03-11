@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Technical informations about the library](#technical-informations-about-the-library)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Technical informations about the library
 
 PHP compatibility matrix: >=7.2 (same as Symfony 4.4)

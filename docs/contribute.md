@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Contribute to this library](#contribute-to-this-library)
+  - [The guidelines](#the-guidelines)
+  - [Run tests](#run-tests)
+  - [How to lint the code](#how-to-lint-the-code)
+  - [How to generate PHP Doc](#how-to-generate-php-doc)
+    - [Git workflow cheat sheet](#git-workflow-cheat-sheet)
+      - [New feature](#new-feature)
+      - [New release](#new-release)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Contribute to this library
 
 Here is the development environment for this library:

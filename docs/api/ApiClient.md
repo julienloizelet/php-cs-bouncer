@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [CrowdSecBouncer\ApiClient](#crowdsecbouncer%5Capiclient)
+  - [Methods](#methods)
+    - [ApiClient::__construct](#apiclient__construct)
+    - [ApiClient::configure](#apiclientconfigure)
+    - [ApiClient::getFilteredDecisions](#apiclientgetfiltereddecisions)
+    - [ApiClient::getStreamedDecisions](#apiclientgetstreameddecisions)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # CrowdSecBouncer\ApiClient  
 
 The LAPI/CAPI REST Client. This is used to retrieve decisions.

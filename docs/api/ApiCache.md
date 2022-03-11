@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [CrowdSecBouncer\ApiCache](#crowdsecbouncer%5Capicache)
+  - [Methods](#methods)
+    - [ApiCache::__construct](#apicache__construct)
+    - [ApiCache::clear](#apicacheclear)
+    - [ApiCache::configure](#apicacheconfigure)
+    - [ApiCache::get](#apicacheget)
+    - [ApiCache::prune](#apicacheprune)
+    - [ApiCache::pullUpdates](#apicachepullupdates)
+    - [ApiCache::testConnection](#apicachetestconnection)
+    - [ApiCache::warmUp](#apicachewarmup)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # CrowdSecBouncer\ApiCache  
 
 The cache mecanism to store every decisions from LAPI/CAPI. Symfony Cache component powered.

@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Standalone mode](#standalone-mode)
+  - [Step 1: Create the settings.php file](#step-1-create-the-settingsphp-file)
+  - [Step 2: start the "auto_prepend_file" mechanism](#step-2-start-the-auto_prepend_file-mechanism)
+  - [Step 3: Test the standalone bouncer](#step-3-test-the-standalone-bouncer)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Standalone mode
 
 There is many technical ways to bounce users.

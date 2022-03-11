@@ -1,3 +1,25 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [CrowdSecBouncer\Bouncer](#crowdsecbouncer%5Cbouncer)
+  - [Methods](#methods)
+    - [Bouncer::__construct](#bouncer__construct)
+    - [Bouncer::buildCaptchaCouple](#bouncerbuildcaptchacouple)
+    - [Bouncer::checkCaptcha](#bouncercheckcaptcha)
+    - [Bouncer::clearCache](#bouncerclearcache)
+    - [Bouncer::configure](#bouncerconfigure)
+    - [Bouncer::getAccessForbiddenHtmlTemplate](#bouncergetaccessforbiddenhtmltemplate)
+    - [Bouncer::getCaptchaHtmlTemplate](#bouncergetcaptchahtmltemplate)
+    - [Bouncer::getLogger](#bouncergetlogger)
+    - [Bouncer::getRemediationForIp](#bouncergetremediationforip)
+    - [Bouncer::pruneCache](#bouncerprunecache)
+    - [Bouncer::refreshBlocklistCache](#bouncerrefreshblocklistcache)
+    - [Bouncer::testConnection](#bouncertestconnection)
+    - [Bouncer::warmBlocklistCacheUp](#bouncerwarmblocklistcacheup)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # CrowdSecBouncer\Bouncer  
 
 The main Class of this package. This is the first entry point of any PHP Bouncers using this library.

@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [CrowdSecBouncer\RestClient](#crowdsecbouncer%5Crestclient)
+  - [Methods](#methods)
+    - [RestClient::__construct](#restclient__construct)
+    - [RestClient::configure](#restclientconfigure)
+    - [RestClient::request](#restclientrequest)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # CrowdSecBouncer\RestClient  
 
 The low level REST Client.

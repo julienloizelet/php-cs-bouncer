@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Useful tips](#useful-tips)
+  - [use the CURL container to call LAPI](#use-the-curl-container-to-call-lapi)
+    - [As a bouncer:](#as-a-bouncer)
+    - [As a watcher:](#as-a-watcher)
+  - [Play with `cscli`](#play-with-cscli)
+  - [Manually create a Watcher JWT](#manually-create-a-watcher-jwt)
+  - [HTTPIE](#httpie)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Useful tips
 
 We tried to list here every useful tip to use this library.

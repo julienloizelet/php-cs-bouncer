@@ -1,3 +1,21 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [The complete guide](#the-complete-guide)
+  - [1) Prerequisite](#1-prerequisite)
+  - [Now let's verify your first IP!](#now-lets-verify-your-first-ip)
+  - [The cache system](#the-cache-system)
+    - [Play with other cache layers](#play-with-other-cache-layers)
+  - [Cap remediation level](#cap-remediation-level)
+  - [Clear the cache](#clear-the-cache)
+  - [Log relevant events](#log-relevant-events)
+  - [Important note about cache expiration](#important-note-about-cache-expiration)
+  - [Using the stream mode](#using-the-stream-mode)
+  - [Enjoy implementing nice PHP bouncers!](#enjoy-implementing-nice-php-bouncers)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # The complete guide
 
 Discover the CrowdSec Bouncer Library for PHP.

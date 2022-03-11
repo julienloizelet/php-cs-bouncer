@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [CrowdSecBouncer\BouncerException](#crowdsecbouncer%5Cbouncerexception)
+  - [Implements:](#implements)
+  - [Extend:](#extend)
+  - [Methods](#methods)
+  - [Inherited methods](#inherited-methods)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # CrowdSecBouncer\BouncerException  
 
 Exception interface for all exceptions thrown by CrowdSec Bouncer.

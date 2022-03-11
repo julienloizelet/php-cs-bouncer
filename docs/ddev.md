@@ -8,6 +8,23 @@ You may use your own local stack, but we provide here some useful tools that dep
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [DDEV-Local setup](#ddev-local-setup)
+  - [DDEV installation](#ddev-installation)
+  - [Prepare DDEV PHP environment](#prepare-ddev-php-environment)
+- [Usage](#usage)
+  - [Add CrowdSec bouncer and watcher](#add-crowdsec-bouncer-and-watcher)
+  - [Use composer to update or install the lib](#use-composer-to-update-or-install-the-lib)
+  - [Unit test](#unit-test)
+  - [Use a `check-ip` php script for test](#use-a-check-ip-php-script-for-test)
+  - [Coding standards](#coding-standards)
+    - [PHPCS Fixer](#phpcs-fixer)
+    - [PHP Mess Detector](#php-mess-detector)
+    - [PHPCS and PHPCBF](#phpcs-and-phpcbf)
+  - [Auto prepend mode](#auto-prepend-mode)
+    - [End to end tests](#end-to-end-tests)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
