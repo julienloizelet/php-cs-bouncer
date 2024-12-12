@@ -14,7 +14,7 @@ use CrowdSec\RemediationEngine\CacheStorage\Memcached;
 use CrowdSec\RemediationEngine\CacheStorage\PhpFiles;
 use CrowdSec\RemediationEngine\CacheStorage\Redis;
 use CrowdSec\RemediationEngine\LapiRemediation;
-use Gregwar\Captcha\CaptchaBuilder;
+use CrowdSecBouncer\Fixes\Gregwar\Captcha\CaptchaBuilder;
 use Gregwar\Captcha\PhraseBuilder;
 use IPLib\Factory;
 use Monolog\Handler\NullHandler;
